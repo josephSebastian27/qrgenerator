@@ -20,6 +20,6 @@ function generateQR(){
 
 
 
-        // alert("Input field is Empty .")
+        alert("Input field is Empty .")
      }
 }
